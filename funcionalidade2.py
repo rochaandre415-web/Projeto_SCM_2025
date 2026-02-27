@@ -1,0 +1,2 @@
+print("segunda funcionalidade implementada")
+
